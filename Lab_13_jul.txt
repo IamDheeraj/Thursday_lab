@@ -1,0 +1,10 @@
+Q1)WAP to accept R from the user and calculate AC & CC
+Q2)WAP using switch case which will display the option of all operators
+Q3)WAP to perform the following operation 
+     1:Accept age and check eligible for voting or not
+	2:Accept 3 no from the user and find out the greatest
+	3:WAP to accept a no from the user and check it is even or odd
+
+Q4) WAP to accept a no from the user and find out the facorial
+
+Q5) WAP to accept a no from the user and display the multiplication table (5*1=5)
